@@ -16,4 +16,6 @@ Scripting:
 Modelling: 
 
 Sanity checking: 
- 
+
+### Tasks
+- [] Merge .csv files in /data/consumption_clean/
