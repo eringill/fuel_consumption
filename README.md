@@ -16,6 +16,7 @@ Mentors: Selena, Freddy, Ruiz
 
 Team Members: Christina, InHwa, Janet, Janice, Lina, Minh, Stephanie
 
+
 ### Data 
 [Link](https://www.kaggle.com/datasets/freddyclchen/fuel-consumption-ratings).  
 
