@@ -16,22 +16,13 @@ Mentors: Selena, Freddy, Ruiz
 
 Team Members: Christina, InHwa, Janet, Janice, Lina, Minh, Stephanie
 
-
-
-
-Documentation:
-
-Scripting:
-
-Modelling: 
-
-Sanity checking: 
+Documentation: Lina, Stephanie
 
 ### Tasks
-- [ ] Merge .csv files in /data/consumption_clean/
-- [ ] Find out how many missing values are in each column of merged .csv file
-- [ ] If somebody is going to purchase a battery-powered vehichle, what are the top options in terms of charging time? In terms of range? InHwa
-- [ ] If somebody is going to purchase a hybrid vehichle, what are the top options in terms of range? In terms of CO2 rating? In terms of smog rating? Christina
-- [ ] If somebody is going to purchase a fossil fuel-powered vehicle, what are your recommendations? How do the following affect smog and CO2 rating: engine size, cylinders, transmission, fuel type, comb(L/100km), class, manufacturer? Janet, Minh, Janice
-- [ ] If you were working for the government and wanted to put in place policies that would help mitigate climate change, what would you reccommend?
-- [ ] What is the biggest take-home message that you can see in this dataset?
+- [x] Merge .csv files in /data/consumption_clean/
+- [x] Find out how many missing values are in each column of merged .csv file
+- [x] If somebody is going to purchase a battery-powered vehichle, what are the top options in terms of charging time? In terms of range? InHwa
+- [x] If somebody is going to purchase a hybrid vehichle, what are the top options in terms of range? In terms of CO2 rating? In terms of smog rating? Christina
+- [x] If somebody is going to purchase a fossil fuel-powered vehicle, what are your recommendations? How do the following affect smog and CO2 rating: engine size, cylinders, transmission, fuel type, comb(L/100km), class, manufacturer? Janet, Minh, Janice
+- [x] If you were working for the government and wanted to put in place policies that would help mitigate climate change, what would you reccommend?
+- [x] What is the biggest take-home message that you can see in this dataset?
